@@ -1,0 +1,469 @@
+{
+    "status": 0,
+    "data": {
+        "page": {
+            "total": 48,
+            "pageNum": 1,
+            "pageSize": 20
+        },
+        "list": [{
+            "activeCode": "yYPc9wk6",
+            "masterTitle": "【预售】麻阳冰糖橙 5斤",
+            "slaveTitle": "颗颗圆润饱满 鲜嫩多汁化渣 天然树熟无添加",
+            "activeBannerUrl": "https://mall.s.maizuo.com/b096dbdacc80f48fb967dd5b62b8e9fc.jpg",
+            "price": 1790,
+            "marketPrice": 2290,
+            "productId": 31118763,
+            "relatedProductId": 31113604,
+            "isSub": 0,
+            "onlineStatus": 1,
+            "userList": [{
+                "icon": "https://mall.s.maizuo.com/0744b3023bdf0435167c1b87045b9e47.jpg",
+                "nickName": "17816****32"
+            }, {
+                "icon": "http://thirdwx.qlogo.cn/mmopen/vi_32/djBRqQGvicFEqibbobrPzFKZKKqThicO1BiaXdaoVIH0IJMibqjh1gyNBDlOIcfNp4CqaqPAicibAtOvbGS8toqJSRmZQ/132",
+                "nickName": "郑志玲"
+            }],
+            "maxAvailableInventory": 8999899,
+            "hasVideo": 0,
+            "labels": {
+                "buyerShow": ""
+            }
+        }, {
+            "activeCode": "dJpQzB1x",
+            "masterTitle": "内蒙茶香烤羊腿 182g",
+            "slaveTitle": "地道蒙古传统美食 肉质酥烂醇香 暖中补虚开胃",
+            "activeBannerUrl": "https://mall.s.maizuo.com/47e57a3e5dbb347840e886f69a2bb6b5.jpg",
+            "price": 2990,
+            "marketPrice": 3690,
+            "productId": 31126973,
+            "relatedProductId": 31127016,
+            "isSub": 0,
+            "onlineStatus": 1,
+            "userList": [{
+                "icon": "https://mall.s.maizuo.com/b04a0b9f27f05f18e7dfa8b60e5f9f55.jpg",
+                "nickName": "15556****42"
+            }],
+            "maxAvailableInventory": 100000,
+            "hasVideo": 0,
+            "labels": {
+                "buyerShow": ""
+            }
+        }, {
+            "activeCode": "iFO48dG1",
+            "masterTitle": "爱媛38号果冻橙 约5斤",
+            "slaveTitle": "基地果园直供 果中名媛 爆汁无渣 细腻甘甜",
+            "activeBannerUrl": "https://mall.s.maizuo.com/ef8d5acdb525e44d8029015b4351050c.jpg",
+            "price": 3490,
+            "marketPrice": 4590,
+            "productId": 25169769,
+            "relatedProductId": 25028217,
+            "isSub": 0,
+            "onlineStatus": 1,
+            "userList": [{
+                "icon": "https://mall.s.maizuo.com/5382a1ee70510b0e9788c681d6b1879b.jpg",
+                "nickName": "13890****33"
+            }, {
+                "icon": "https://mall.s.maizuo.com/47661c1cd2b8a63bbeccd5258fde0c5b.jpg",
+                "nickName": "13861****61"
+            }],
+            "maxAvailableInventory": 89821,
+            "hasVideo": 0,
+            "labels": {
+                "buyerShow": ""
+            }
+        }, {
+            "activeCode": "CvbDvBum",
+            "masterTitle": "智利进口车厘子 2磅装",
+            "slaveTitle": "源于智利直采 红似玛瑙 颗颗脆爽香甜 冷链新鲜直达",
+            "activeBannerUrl": "https://mall.s.maizuo.com/956d8781bc70aa852dc696ddc4e15a9c.jpg",
+            "price": 12000,
+            "marketPrice": 15590,
+            "productId": 31833348,
+            "relatedProductId": 31828657,
+            "isSub": 0,
+            "onlineStatus": 1,
+            "userList": [{
+                "icon": "http://thirdwx.qlogo.cn/mmopen/vi_32/w2OlzwFOZWc95Gk7sIrBopMPZ3KrXNlt8yDsiazb6gibV798HGyOvWNtQjyEu5EicM3QkJAqaic1sXEuO4aHd5cM8w/132",
+                "nickName": "自由自在"
+            }, {
+                "icon": "https://mall.s.maizuo.com/2a6504c4006e8e24d39bde91e9c5480e.jpg",
+                "nickName": "13978****64"
+            }],
+            "maxAvailableInventory": 89998,
+            "hasVideo": 0,
+            "labels": {
+                "buyerShow": ""
+            }
+        }, {
+            "activeCode": "JZrmg3vb",
+            "masterTitle": "椰纤水果布丁 70g*4",
+            "slaveTitle": "浓郁果味醇香 色泽鲜艳诱人 畅享多味甜美生活",
+            "activeBannerUrl": "https://mall.s.maizuo.com/62a601ea4caa735d6ed141f7af0a4edf.jpg",
+            "price": 990,
+            "marketPrice": 1400,
+            "productId": 29705207,
+            "relatedProductId": 29701499,
+            "isSub": 0,
+            "onlineStatus": 1,
+            "userList": [{
+                "icon": "https://mall.s.maizuo.com/6ca733f8ebe97efe919123789029bb93.jpg",
+                "nickName": "16692****79"
+            }, {
+                "icon": "https://mall.s.maizuo.com/3fcf3dd423d3d90599e8197329752df8.jpg",
+                "nickName": "18481****85"
+            }],
+            "maxAvailableInventory": 1000,
+            "hasVideo": 0,
+            "labels": {
+                "buyerShow": ""
+            }
+        }, {
+            "activeCode": "Lq8oGzA9",
+            "masterTitle": "芝士三明治夹心饼干 240g",
+            "slaveTitle": "色泽金黄酥脆 芝士酱心实力派 浓郁奶香好滋味",
+            "activeBannerUrl": "https://mall.s.maizuo.com/11d99296db29aa94dd486e3a435b0db4.jpg",
+            "price": 2290,
+            "marketPrice": 3300,
+            "productId": 29429404,
+            "relatedProductId": 27808188,
+            "isSub": 0,
+            "onlineStatus": 1,
+            "userList": [{
+                "icon": "https://mall.s.maizuo.com/8bbf7bacd7f02ed4cf7f7481996d54c0.jpg",
+                "nickName": "15242****32"
+            }, {
+                "icon": "https://mall.s.maizuo.com/60c55fb7dbe72d3410a99263d555480d.jpg",
+                "nickName": "17828****34"
+            }],
+            "maxAvailableInventory": 992,
+            "hasVideo": 0,
+            "labels": {
+                "buyerShow": ""
+            }
+        }, {
+            "activeCode": "U1etVPNJ",
+            "masterTitle": "【上海、湖南】万达影院电影通兑券",
+            "slaveTitle": "限上海、湖南地区万达影院门店或万达电影APP兑换",
+            "activeBannerUrl": "https://mall.s.maizuo.com/80f2c7488ea128c76c0df4a7f343a10c.jpg",
+            "price": 2190,
+            "marketPrice": 2490,
+            "productId": 30836193,
+            "relatedProductId": 30813294,
+            "isSub": 0,
+            "onlineStatus": 1,
+            "userList": [{
+                "icon": "https://mall.s.maizuo.com/7109e6b9624723fa8ba1db8d5079db03.jpg",
+                "nickName": "18381****29"
+            }, {
+                "icon": "https://mall.s.maizuo.com/5a5ebe3d272a32416eae80611d1d994b.jpg",
+                "nickName": "16692****76"
+            }],
+            "maxAvailableInventory": 108,
+            "hasVideo": 0,
+            "labels": {
+                "buyerShow": ""
+            }
+        }, {
+            "activeCode": "k5JQ333Q",
+            "masterTitle": "潮汕手打牛肉丸/牛筋丸 1kg",
+            "slaveTitle": "历代传承手工艺 爽口弹牙有嚼劲 醇香饱满厚实 4袋装",
+            "activeBannerUrl": "https://mall.s.maizuo.com/7822c43973d7d8d9a25d947336049595.jpg",
+            "price": 7560,
+            "marketPrice": 9590,
+            "productId": 30902957,
+            "relatedProductId": 29641403,
+            "isSub": 0,
+            "onlineStatus": 1,
+            "userList": [{
+                "icon": "http://thirdwx.qlogo.cn/mmopen/vi_32/WaD3V5Ce2n1ug0FySicAs8FYUXtaocJ8Gz0uyhC6AGgomvwNmIkdybianWBXuq4oqiaaaPia0CVicPpYc4iajyWxnVfQ/132",
+                "nickName": "兔子"
+            }, {
+                "icon": "https://mall.s.maizuo.com/c669f1a58c02dd19da83f539da7cc818.jpg",
+                "nickName": "17878****63"
+            }],
+            "maxAvailableInventory": 1000000,
+            "hasVideo": 0,
+            "labels": {
+                "buyerShow": ""
+            }
+        }, {
+            "activeCode": "cYRveKIr",
+            "masterTitle": "潮汕手工鱼丸 1kg",
+            "slaveTitle": "传统制丸工艺 颗颗饱满鲜嫩 纳米级过滤用水 4袋装",
+            "activeBannerUrl": "https://mall.s.maizuo.com/c08ed640d2b17bac014392813d475ca6.jpg",
+            "price": 7560,
+            "marketPrice": 9590,
+            "productId": 30905800,
+            "relatedProductId": 29690540,
+            "isSub": 0,
+            "onlineStatus": 1,
+            "userList": [{
+                "icon": "https://mall.s.maizuo.com/d352867a13bc7202b5dd3b46ef825122.jpg",
+                "nickName": "16672****88"
+            }, {
+                "icon": "https://mall.s.maizuo.com/32c0d4169cff39e18c99e914be41e758.jpg",
+                "nickName": "15216****38"
+            }],
+            "maxAvailableInventory": 100000000,
+            "hasVideo": 0,
+            "labels": {
+                "buyerShow": ""
+            }
+        }, {
+            "activeCode": "x2tkiGCc",
+            "masterTitle": "良布竹纤维本色抽纸 S码",
+            "slaveTitle": "天然健康 柔韧舒适 干湿两用",
+            "activeBannerUrl": "https://mall.s.maizuo.com/594a744b6a6a76517f19abbc88d21d94.jpg",
+            "price": 1090,
+            "marketPrice": 1490,
+            "productId": 30943443,
+            "relatedProductId": 30943311,
+            "isSub": 0,
+            "onlineStatus": 1,
+            "userList": [{
+                "icon": "https://mall.s.maizuo.com/5f9e19816b52562d2319d31a55a20c86.jpg",
+                "nickName": "13915****32"
+            }, {
+                "icon": "https://mall.s.maizuo.com/fd874091dbecabbaaae5dc7a53b4dfe0.jpg",
+                "nickName": "17869****90"
+            }],
+            "maxAvailableInventory": 1000,
+            "hasVideo": 0,
+            "labels": {
+                "buyerShow": ""
+            }
+        }, {
+            "activeCode": "kBew1f3W",
+            "masterTitle": "良布竹纤维本色抽纸 M码",
+            "slaveTitle": "柔韧舒适 天然健康 干湿两用",
+            "activeBannerUrl": "https://mall.s.maizuo.com/c5656361e4699b740e9ce2a2b2c29095.jpg",
+            "price": 1190,
+            "marketPrice": 1550,
+            "productId": 30945204,
+            "relatedProductId": 30944718,
+            "isSub": 0,
+            "onlineStatus": 1,
+            "userList": [{
+                "icon": "https://mall.s.maizuo.com/5f9e19816b52562d2319d31a55a20c86.jpg",
+                "nickName": "13915****32"
+            }, {
+                "icon": "https://mall.s.maizuo.com/d455e19708b821694d0e43d3d7bd0bd9.jpg",
+                "nickName": "13956****55"
+            }],
+            "maxAvailableInventory": 1000,
+            "hasVideo": 0,
+            "labels": {
+                "buyerShow": ""
+            }
+        }, {
+            "activeCode": "YOVDy0Tf",
+            "masterTitle": "良布竹纤维本色卷纸",
+            "slaveTitle": "柔韧舒适 吸水性强 干湿两用",
+            "activeBannerUrl": "https://mall.s.maizuo.com/c0dc7efec512f89eb825c86a3006509a.jpg",
+            "price": 1190,
+            "marketPrice": 1490,
+            "productId": 30945316,
+            "relatedProductId": 30945258,
+            "isSub": 0,
+            "onlineStatus": 1,
+            "userList": [{
+                "icon": "https://mall.s.maizuo.com/b04a0b9f27f05f18e7dfa8b60e5f9f55.jpg",
+                "nickName": "15556****42"
+            }, {
+                "icon": "https://mall.s.maizuo.com/c4dfc71ebcb9ac0fe3b6da2518ff211e.jpg",
+                "nickName": "18370****71"
+            }],
+            "maxAvailableInventory": 998,
+            "hasVideo": 0,
+            "labels": {
+                "buyerShow": ""
+            }
+        }, {
+            "activeCode": "ETFuWQ42",
+            "masterTitle": "喜得佳火锅丸子组合",
+            "slaveTitle": "潮汕传统小食 弹牙脆爽 肉质鲜美 火锅搭配首选",
+            "activeBannerUrl": "https://mall.s.maizuo.com/e67b479c2c8dc452a46bdd5e77d3554d.jpg",
+            "price": 7560,
+            "marketPrice": 9590,
+            "productId": 30780562,
+            "relatedProductId": 29612780,
+            "isSub": 0,
+            "onlineStatus": 1,
+            "userList": [{
+                "icon": "https://mall.s.maizuo.com/b959ba06ba73baee7a4b303e531aae62.jpg",
+                "nickName": "13981****98"
+            }, {
+                "icon": "https://mall.s.maizuo.com/89748095026a454215a0d4059c2b7301.jpg",
+                "nickName": "17890****53"
+            }],
+            "maxAvailableInventory": 999999,
+            "hasVideo": 0,
+            "labels": {
+                "buyerShow": ""
+            }
+        }, {
+            "activeCode": "r6DwkJ0y",
+            "masterTitle": "喜得佳四拼丸子组合",
+            "slaveTitle": "传统潮汕制丸工艺 圆润厚实 爽口弹牙 肉汁饱满",
+            "activeBannerUrl": "https://mall.s.maizuo.com/42e2836643827ac5812c1600c2923c36.jpg",
+            "price": 7560,
+            "marketPrice": 9590,
+            "productId": 30796818,
+            "relatedProductId": 29615954,
+            "isSub": 0,
+            "onlineStatus": 1,
+            "userList": [{
+                "icon": "https://mall.s.maizuo.com/1731a1f99cad32b601213b0c66ae860e.jpg",
+                "nickName": "13932****57"
+            }, {
+                "icon": "https://mall.s.maizuo.com/3601abb12adab67a2eea55f091c7f714.jpg",
+                "nickName": "18353****96"
+            }],
+            "maxAvailableInventory": 999997,
+            "hasVideo": 0,
+            "labels": {
+                "buyerShow": ""
+            }
+        }, {
+            "activeCode": "5uchipnA",
+            "masterTitle": "榛子奶油味夹心巧克力 500g",
+            "slaveTitle": "恒温烘焙工艺 颗颗丝滑细腻 畅享饱满甜蜜",
+            "activeBannerUrl": "https://mall.s.maizuo.com/ce83211a1ef56ce2851996e2ff777b77.jpg",
+            "price": 4690,
+            "marketPrice": 6500,
+            "productId": 26759480,
+            "relatedProductId": 26735064,
+            "isSub": 0,
+            "onlineStatus": 1,
+            "userList": [{
+                "icon": "https://mall.s.maizuo.com/dfd9039a78dabed7fe54182b54229dcb.jpg",
+                "nickName": "15537****84"
+            }, {
+                "icon": "https://mall.s.maizuo.com/2d2ee9a855584e9228b21aac5f74b65f.jpg",
+                "nickName": "15256****25"
+            }],
+            "maxAvailableInventory": 999,
+            "hasVideo": 0,
+            "labels": {
+                "buyerShow": ""
+            }
+        }, {
+            "activeCode": "UVawpouU",
+            "masterTitle": "小清新毛绒防爆热水袋",
+            "slaveTitle": "暖手 暖腰 暖被窝 智能防爆 长效保温",
+            "activeBannerUrl": "https://mall.s.maizuo.com/6be9259c926cb2fe4b716f396f51f67a.jpg",
+            "price": 3190,
+            "marketPrice": 5500,
+            "productId": 30761782,
+            "relatedProductId": 24913805,
+            "isSub": 0,
+            "onlineStatus": 1,
+            "userList": [{
+                "icon": "http://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJDSY5xBJ2PH04ARl6yjAsrnRRRt7Sc24nUgvugRI6Lo5r4vMguyB1zialQ3mBmjrjM48vcjAnM1Kw/132",
+                "nickName": "南瓜小饼"
+            }, {
+                "icon": "https://mall.s.maizuo.com/c3c8d6fbc900f5c1bcefcccbf5aee3f1.jpg",
+                "nickName": "13984****28"
+            }],
+            "maxAvailableInventory": 19,
+            "hasVideo": 0,
+            "labels": {
+                "buyerShow": ""
+            }
+        }, {
+            "activeCode": "vj4WH2tn",
+            "masterTitle": "马卡龙防爆电热水袋",
+            "slaveTitle": "健康材质 三重防爆 水电分离",
+            "activeBannerUrl": "https://mall.s.maizuo.com/c1b2f46acb0936f3a35f18cf4a467ec5.jpg",
+            "price": 5900,
+            "marketPrice": 8900,
+            "productId": 31113523,
+            "relatedProductId": 31113507,
+            "isSub": 0,
+            "onlineStatus": 1,
+            "userList": [{
+                "icon": "https://mall.s.maizuo.com/dbf2407168ad807223ad8c1ae7684199.jpg",
+                "nickName": "13889****89"
+            }, {
+                "icon": "https://mall.s.maizuo.com/fd874091dbecabbaaae5dc7a53b4dfe0.jpg",
+                "nickName": "17869****90"
+            }],
+            "maxAvailableInventory": 300,
+            "hasVideo": 0,
+            "labels": {
+                "buyerShow": ""
+            }
+        }, {
+            "activeCode": "oxk0qOg6",
+            "masterTitle": "雅非奇 巧克力儿童保温吸管杯 220ml",
+            "slaveTitle": "12H保温保冷 卡通巧克力豆造型 一键式开盖",
+            "activeBannerUrl": "https://mall.s.maizuo.com/5abbd29a66629c7f56c63de1321e71d9.jpg",
+            "price": 3990,
+            "marketPrice": 6900,
+            "productId": 30765008,
+            "relatedProductId": 9658890,
+            "isSub": 0,
+            "onlineStatus": 1,
+            "userList": [{
+                "icon": "https://mall.s.maizuo.com/b81fdc2c98fd41b24061694d51693490.jpg",
+                "nickName": "15554****54"
+            }, {
+                "icon": "http://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJwKrcT0t4qomVlNS3OA3AibRdlyUrfqghhicKl8bKGTdeCpjIkG8FZpP0mxYC5ictYnToDN6fbFFz2w/132",
+                "nickName": "游游"
+            }],
+            "maxAvailableInventory": 5,
+            "hasVideo": 0,
+            "labels": {
+                "buyerShow": ""
+            }
+        }, {
+            "activeCode": "9xtdkBNJ",
+            "masterTitle": "倍乐思扁桃仁牛奶巧克力 180g",
+            "slaveTitle": "低温烘焙果仁香 醇香丝滑巧克力 72小时研拌工艺",
+            "activeBannerUrl": "https://mall.s.maizuo.com/bee5c4328406701a6669d36db12719f7.jpg",
+            "price": 4690,
+            "marketPrice": 6900,
+            "productId": 26675292,
+            "relatedProductId": 26677776,
+            "isSub": 0,
+            "onlineStatus": 1,
+            "userList": [{
+                "icon": "https://mall.s.maizuo.com/b04a0b9f27f05f18e7dfa8b60e5f9f55.jpg",
+                "nickName": "15556****42"
+            }, {
+                "icon": "https://mall.s.maizuo.com/27630c029eb9bf4f0a2f069ef3ee1655.jpg",
+                "nickName": "13990****45"
+            }],
+            "maxAvailableInventory": 999,
+            "hasVideo": 0,
+            "labels": {
+                "buyerShow": ""
+            }
+        }, {
+            "activeCode": "f3T7wT5x",
+            "masterTitle": "联创LED触控台灯",
+            "slaveTitle": "触摸开关 三档调色 无极调光",
+            "activeBannerUrl": "https://mall.s.maizuo.com/b534293e947e6715cfd7a279b573fa42.jpg",
+            "price": 7590,
+            "marketPrice": 9900,
+            "productId": 28813917,
+            "relatedProductId": 28813124,
+            "isSub": 0,
+            "onlineStatus": 1,
+            "userList": [{
+                "icon": "https://mall.s.maizuo.com/505b739149d4afc1d047e6dc6d39e268.jpg",
+                "nickName": "13932****88"
+            }, {
+                "icon": "https://mall.s.maizuo.com/91ade3013ea8017ded1801d481dd85c1.jpg",
+                "nickName": "13878****50"
+            }],
+            "maxAvailableInventory": 100,
+            "hasVideo": 0,
+            "labels": {
+                "buyerShow": ""
+            }
+        }]
+    },
+    "msg": "success"
+}

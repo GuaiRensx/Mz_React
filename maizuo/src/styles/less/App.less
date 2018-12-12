@@ -1,0 +1,116 @@
+@import url('../main.less');
+html{
+  height:100%;
+  body{
+    color: #2c3e50;
+    .fs(14);
+    box-sizing: border-box;
+    height:100%;
+    #root{
+      height: 100%;
+      background: #f4f4f4;
+      position: relative;
+      .containers{
+        // height: 100%;
+        position: relative;
+        .am-tab-bar{
+          .w(375);
+          .h(50)!important;
+          position: fixed;
+          height: auto;
+          .bottom(0);
+          .right(0);
+          .left(0);
+          .am-tabs-tab-bar-wrap{
+            height: 100%;
+            .am-tab-bar-bar{
+              height: 100%;
+              .am-tab-bar-tab{
+                height: 100%;
+                .am-tab-bar-tab-icon{
+                  .margin-top(5)!important;
+                  .w(22)!important;
+                  .h(22)!important;
+                  .aa{
+                    .w(22)!important;
+                    .h(22)!important;
+                    background-size: contain!important;
+                    background-position: center!important;
+                    background-repeat: no-repeat!important;
+                  }
+                }
+                .am-tab-bar-tab-title{
+                  .fs(12)!important;
+                  .lh(24)!important;
+                }
+              }
+            }
+          }
+        }
+        .content{
+          height: 100%;
+          .moive{
+            position: relative;
+            .city-fixed{
+              position: absolute;
+              .top(20);
+              .left(10);
+              .h(30);
+              .lh(30);
+              .border-radius(15);
+              text-align: center;
+              z-index: 11;
+              .padding-right(5);
+              .padding-left(5);
+              color: #fff;
+              .fs(13);
+              background: rgba(0,0,0, 0.2);
+              i{
+                .margin-left(5);
+                .fs(12);
+              }
+            }
+            .list{
+              .header{
+                // overflow: hidden;
+                .moive-header{
+                  // position: absolute;
+                  display: flex;
+                  background: #fff;
+                  // position: fixed;
+                  color: black;
+                  border-bottom: 1px solid #ededed;
+                  box-sizing: border-box;
+                  // .top(170);
+                  .w(375);
+                  .h(44);
+                  .lh(44);
+                  .moive-header-city{
+                    flex: 1;
+                    text-align: left;
+                    .padding-left(15);
+                    .fs(13);
+                    span{
+                      color: black;
+                    }
+                    i{
+                      .padding-left(3);
+                      .fs(8)
+                    }
+                  }
+                  .moive-header-content{
+                    .padding-left(50);
+                    flex: 2;
+                    color: #191a1b;
+                    .fs(17);
+                    text-align: left;
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,124 @@
+.test(@color,@color2){
+    background: @color;
+    color:@color2;
+}
+
+//宽
+.w(@px){
+    width:unit(@px/37.5,rem);// 给第一个参数添加一个单位
+}
+
+//高
+.h(@px){
+    height:unit(@px/37.5,rem);
+}
+
+//line-height
+.lh(@px){
+    line-height:unit(@px/37.5,rem);
+}
+
+//字体大小
+.fs(@px){
+    font-size: unit(@px/37.5,rem);
+}
+
+//内边距
+.padding(@top,@right,@bottom,@left){
+    padding-top:unit(@top/37.5,rem);
+    padding-right:unit(@right/37.5,rem) ;
+    padding-bottom: unit(@bottom/37.5,rem);
+    padding-left:unit(@left/37.5,rem);
+}
+
+.padding-top(@px){
+    padding-top:unit(@px/37.5,rem);
+}
+
+.padding-left(@px){
+    padding-left:unit(@px/37.5,rem);
+}
+
+.padding-right(@px){
+    padding-right:unit(@px/37.5,rem);
+}
+
+.padding-bottom(@px){
+    padding-bottom:unit(@px/37.5,rem);
+}
+
+.margin(@top,@right,@bottom,@left){
+    margin-top:unit(@top/37.5,rem);
+    margin-right:unit(@right/37.5,rem) ;
+    margin-bottom: unit(@bottom/37.5,rem);
+    margin-left:unit(@left/37.5,rem);
+}
+
+.margin-top(@px){
+    margin-top:unit(@px/37.5,rem);
+}
+
+.margin-right(@px){
+    margin-right:unit(@px/37.5,rem);
+}
+
+.margin-bottom(@px){
+    margin-bottom:unit(@px/37.5,rem);
+}
+
+.margin-left(@px){
+    margin-left:unit(@px/37.5,rem);
+}
+.tx-indent(@px){
+    text-indent: unit(@px/37.5,rem);
+}
+
+
+.left(@px){
+    left:unit(@px/37.5,rem);
+}
+.top(@px){
+    top:unit(@px/37.5,rem);
+}
+.right(@px){
+    right:unit(@px/37.5,rem);
+}
+.bottom(@px){
+    bottom:unit(@px/37.5,rem);
+}
+
+
+.border-radius(@px){
+    border-radius:unit(@px/37.5,rem);
+}
+.min-width(@px){
+    min-width:unit(@px/37.5,rem);
+}
+
+//下边框
+.border-bottom(@px,@style,@color){
+    border-bottom:unit(@px/37.5,rem) @style @color;
+}
+.border(@px,@style,@color){
+    border:unit(@px/37.5,rem) @style @color;
+}
+
+//边框圆角
+.border-radius(@px){
+    border-radius:unit(@px/37.5,rem);
+}
+.letter-spacing(@px){
+    letter-spacing:unit(@px/37.5,rem);
+}
+
+.min-height(@px){
+    min-height:unit(@px/37.5,rem);
+}
+
+.min-width(@px){
+    min-width:unit(@px/37.5,rem);
+}
+
+.max-width(@px){
+    max-width:unit(@px/37.5,rem);
+}

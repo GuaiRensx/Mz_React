@@ -1,0 +1,166 @@
+@import url('../main.less');
+.citylist{
+    height: 100%;
+    .citylist-header{
+        position: fixed;
+        .top(0);
+        .left(0);
+        z-index: 111111;
+        .citylist-header-top{
+            .h(44);
+            .lh(44);
+            background: #fff;
+            display: flex;
+            .back{
+                flex: 1;
+                text-align: left;
+                i{
+                    .fs(16);
+                    .padding-left(10);
+                }
+            }
+            .title{
+                flex: 5;
+                text-align: center;
+                span{
+                    .fs(17);
+                    .padding-right(60);
+                }
+            }
+        }
+        .search-city-input{
+            z-index: 1111;
+            .h(30);
+            .w(345);
+            .padding(9.5,15,9.5,15);
+            background: #f4f4f4;
+            .input-wrap{
+                background: #fff;
+                position: relative;
+                display: inline-block;
+                .h(30);
+                width: 100%;
+                .border-radius(3);
+                i{
+                    .fs(16);
+                    position: absolute;
+                    .left(7);
+                    .top(0);
+                    .lh(30);
+                    color: #797d82;
+                }
+                input{
+                    .w(280);
+                    position: absolute;
+                    .left(33.5);
+                    .top(0);
+                    .h(30);
+                }
+            }
+        }
+    }
+    .mint-indexlist{
+        .margin-top(94);
+        z-index: 11111;
+        width: 100%;
+        position: relative;
+        overflow: hidden;
+        background: #fff;
+        .mint-indexlist-content{
+            .margin-right(17);
+            z-index: 2000;
+            .recommend-city{
+               .padding-left(15);
+               .padding-top(15);  
+               .gprs-city{
+                .city-index-title{
+                    .fs(13);
+                    color: #797d82;
+                    .margin-bottom(10);
+                    
+                    }
+                    .gps-city{
+                        display: inline-block;
+                        .h(30);
+                        .lh(30);
+                        .w(99);
+                        .margin(0,7.5,15,7.5);
+                        text-align: center;
+                        .border-radius(3);
+                        color: #191a1b;
+                        .fs(14);
+                        background: #f4f4f4;
+                    }
+               }
+               .hot-city{
+                   .title{
+                       .fs(13);
+                       color: #797d82;
+                    //    .margin-top(10);
+                       .margin-bottom(10);
+                   }
+                   ul{
+                    li{
+                        float: left;
+                        display: inline-block;
+                        .h(30);
+                        .lh(30);
+                        .w(99);
+                        .margin(0,7.5,15,0);
+                        text-align: center;
+                        .border-radius(3);
+                        color: #191a1b;
+                        .fs(14);
+                        background: #f4f4f4;
+                    }
+                }
+               }
+            }
+            .mint-indexsection-index{
+                background: #f4f4f4;
+                color: #797d82;
+                .h(30);
+                .padding-left(15);
+                .lh(30);
+            } 
+            ul{
+                .padding-left(15);
+                li{
+                    float: left;
+                    position: relative;
+                    .h(48);
+                    .lh(48);
+                    text-align: center;
+                    .w(114);
+                    color: black;
+                    border-bottom: 1px solid #ededed;
+                }
+            }
+        }
+        .mint-indexlist-nav{
+            height: 100%;
+            position: fixed;
+            z-index: 1999; 
+            .w(17);
+            .margin-top(94);
+            .top(0);
+            .bottom(0);
+            .right(0);
+            text-align: center;
+            background: #fff;  
+            ul{
+               position: absolute;
+               .top(94);
+               left: 0; 
+                li{
+                    // flex: 1;
+                    .fs(11);
+                    color: #191a1b;
+                    .padding(6,6,0,6);
+                    display:list-item;
+                    // text-align: -webkit-match-parent;
+                }
+            }
+        }
+    }
+}

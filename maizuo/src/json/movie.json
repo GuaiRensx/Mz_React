@@ -1,0 +1,448 @@
+{
+    "status": 0,
+    "data": {
+        "films": [{
+            "filmId": 4453,
+            "name": "无名之辈",
+            "poster": "https://pic.maizuo.com/usr/movie/83600473ca516fbaf7b2461596af40df.jpg",
+            "actors": [{
+                "name": "陈建斌 ",
+                "role": "马先勇",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/a7722557b07de3fa0a05a8edb2f6c3ed.jpg"
+            }, {
+                "name": "任素汐  ",
+                "role": "马嘉旗 ",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/d7ab46a0dbbcda43d4105f809c02f5d5.jpg"
+            }, {
+                "name": "章宇",
+                "role": "眼镜",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/0751a93544c7ea154d65c6af11e72821.jpg"
+            }, {
+                "name": "王砚辉",
+                "role": " 演员",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/6f60ba0ade5443857b3bbefdd1493276.jpg"
+            }],
+            "director": "饶晓志",
+            "category": "剧情|喜剧",
+            "synopsis": "在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "中国大陆",
+            "language": "汉语普通话",
+            "videoId": "XMzg5Mjg3ODI4OA==",
+            "premiereAt": 1542326400,
+            "timeType": 3,
+            "runtime": 100,
+            "grade": "8.1",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        }, {
+            "filmId": 4424,
+            "name": "毒液：致命守护者",
+            "poster": "https://pic.maizuo.com/usr/movie/1781f676e488fb1bfe0cf6277e5bd78a.jpg",
+            "actors": [{
+                "name": "汤姆·哈迪",
+                "role": "埃迪·布洛克 / 毒液",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/8d65dc2e228ddce683d2aa1eacd516bd.jpg"
+            }, {
+                "name": "里兹·阿迈德 ",
+                "role": "德雷克博士",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/8a28f9e7fef8c34577e131be81b00426.jpg"
+            }, {
+                "name": " 米歇尔·威廉姆斯 ",
+                "role": "安妮·韦英 ",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/b623d05f6b4ad819cbac8c4d98446fe6.jpg"
+            }, {
+                "name": " 斯科特·黑兹",
+                "role": "",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/c638a5209dfd71f6e5792b5be98a1d9c.jpg"
+            }, {
+                "name": "瑞德·斯科特 ",
+                "role": "Patrick Mulligan",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/6580896dac2546a0cbdde69e9d9a2cec.jpg"
+            }],
+            "director": "鲁本·弗雷斯彻",
+            "category": "动作|科幻|惊悚",
+            "synopsis": "曾主演《敦刻尔克》《盗梦空间》等口碑大片的肌肉型男汤姆·哈迪在本片中饰演“毒液”的宿主–埃迪·布洛克。身为记者的埃迪在调查生命基金会老板卡尔顿·德雷克（里兹·阿迈德饰）的过程中，事业遭受重创，与未婚妻安妮·韦英（米歇尔·威廉姆斯饰）的关系岌岌可危，并意外被外星共生体入侵，历经挣扎对抗，最终成为拥有强大超能力，无人可挡的“毒液”。",
+            "filmType": {
+                "name": "IMAX3D",
+                "value": 17
+            },
+            "nation": "美国 ",
+            "language": "英语",
+            "videoId": "XMzgyNjMyNDM4OA==",
+            "premiereAt": 1541721600,
+            "timeType": 3,
+            "runtime": 112,
+            "grade": "7.3",
+            "item": {
+                "name": "IMAX3D",
+                "type": 17
+            },
+            "isPresale": true,
+            "isSale": false
+        }, {
+            "filmId": 4469,
+            "name": "海王 ",
+            "poster": "https://pic.maizuo.com/usr/movie/be682c73c8d55bf8a5298e17487ae846.jpg",
+            "actors": [{
+                "name": "温子仁",
+                "role": " 导演",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/2b6b007e02aa60bb4e93b6ff57cf7185.jpg"
+            }, {
+                "name": " 杰森·莫玛",
+                "role": "Arthur Curry    Aquaman",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/cc0f46bc20be5ae093f3e4f2c8c06f08.jpg"
+            }, {
+                "name": "安柏·赫德",
+                "role": "Mera",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/1f0dba0c4431a8084b879e55929949bb.jpg"
+            }, {
+                "name": " 帕特里克·威尔森",
+                "role": " Orm / Ocean Master",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/7e5727503ed7ac6ddc0b7cb262b5e9b7.jpg"
+            }, {
+                "name": " 妮可·基德曼 ",
+                "role": " Queen Atlanna",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/e712708f4801f12a08165ae25fb96870.jpg"
+            }, {
+                "name": "杜夫·龙格尔",
+                "role": " King Nereus",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/31addb46b98ded8b973bd2b5ea45b2ad.jpg"
+            }],
+            "director": "温子仁",
+            "category": "动作|奇幻|冒险",
+            "synopsis": "本片由杰森·莫玛领衔主演，讲述半人半亚特兰蒂斯血统的亚瑟·库瑞踏上永生难忘的征途——他不但需要直面自己的特殊身世，更不得不面对生而为王的考验：自己究竟能否配得上“海王”之名。",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "美国   澳大利亚 ",
+            "language": "英语",
+            "videoId": "XMzkzNjI2NDgwNA==",
+            "premiereAt": 1544140800,
+            "timeType": 3,
+            "runtime": 143,
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        }, {
+            "filmId": 4465,
+            "name": "老爸102岁",
+            "poster": "https://pic.maizuo.com/usr/movie/b433d68518a65e9370e60d7d2a142f2d.jpg",
+            "actors": [{
+                "name": " 奥米史·舒克拉",
+                "role": " 导演",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/3a5c2c86b21dacc141e011ba7f3115b7.jpg"
+            }, {
+                "name": "阿米达普·巴强",
+                "role": "Dattatraya Vakharia",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/59aca93cc5350445ec6116149c3de73f.jpg"
+            }, {
+                "name": " 里希·卡普尔 ",
+                "role": "Babulal Vakharia",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/3ce18ffc64ffcb5d9b69b04371780d7a.jpg"
+            }, {
+                "name": "吉米特·特里韦迪",
+                "role": " Dhiru",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/72f1815208ae3f908925fb6d95f351b3.jpg"
+            }, {
+                "name": "达尔曼德拉·吉尔 ",
+                "role": "Amol",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/89b0ed9c7582a0c643321a4d974c297c.jpg"
+            }],
+            "director": "奥米史·舒克拉",
+            "category": "剧情|喜剧",
+            "synopsis": "102岁的老爸达特利（阿米达普·巴强 饰）是一个有着26岁灵魂、精神奕奕的酷老头，他75岁的儿子巴布（里希·卡普尔 饰）却暮气沉沉刻板无趣。　　为了挑战世界长寿纪录，老爸决定将儿子送进养老院，想要阻止老爸的疯狂行为，儿子巴布就必须完成一系列“改造任务”，成为眼中有光热爱生活的新巴布。完成任务的过程中，父子两人有温馨欢乐也有争吵冲突，而就在儿子即将完成所有任务，重拾对生活热情时，却发现改造计划背后更感人的秘密……",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "印度",
+            "language": "印地语",
+            "videoId": "XMzkzMTg0MDg0MA==",
+            "premiereAt": 1543536000,
+            "timeType": 3,
+            "runtime": 102,
+            "grade": "7.4",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        }, {
+            "filmId": 4447,
+            "name": "无敌破坏王2：大闹互联网",
+            "poster": "https://pic.maizuo.com/usr/movie/cf413c6856d3c9317860c76025da9e8b.jpg",
+            "actors": [{
+                "name": "曼迪·摩尔",
+                "role": " Rapunzel",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/ec1ef5fe89dc516ef548f43988cbdefc.jpg"
+            }, {
+                "name": "约翰·C·赖利",
+                "role": " Ralph",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/4b2ee97e715b6c966f4d8a98f44d10da.jpg"
+            }, {
+                "name": "盖尔·加朵",
+                "role": " Shank",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/6411a4e63a5c5788fa209fcf57246a9a.jpg"
+            }, {
+                "name": "克里斯汀·贝尔",
+                "role": "Anna",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/8adfb90619428249ff79cfa94d7d38ca.jpg"
+            }],
+            "director": "菲尔·约翰斯顿    瑞奇·摩尔",
+            "category": "喜剧|动画|奇幻|冒险",
+            "synopsis": "《无敌破坏王2：大闹互联网》从电玩世界来到了广阔、未知又激动人心的虚拟网络世界，而互联网世界能否经得住破坏？电玩游戏破坏王拉尔夫和调皮女孩云妮洛普冒险前往未知的网络世界，寻找可以修复《甜蜜冲刺》游戏的组件。他们需要在网民们的帮助下在网络世界中不断前行，在这过程中他们遇到了热门网站BuzzzTube的核心人物——充满企业家精神的耶丝小姐。",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "美国",
+            "language": "英语",
+            "videoId": "XMzY0NTg0MzQxNg==",
+            "premiereAt": 1542931200,
+            "timeType": 3,
+            "runtime": 100,
+            "grade": "8.3",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        }, {
+            "filmId": 4434,
+            "name": "憨豆特工3 ",
+            "poster": "https://pic.maizuo.com/usr/movie/fa4864c300d1d2e86c413fde6bebc157.jpg",
+            "actors": [{
+                "name": " 罗温·艾金森 ",
+                "role": "演员",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/8ab9d2148d9504de25e43f8cd8008d7d.jpg"
+            }, {
+                "name": " 欧嘉·柯瑞兰寇",
+                "role": "演员",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/2a3061cb2c04ae4899ed7daea8eb9f46.jpg"
+            }, {
+                "name": " 艾玛·汤普森",
+                "role": "演员",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/7242b1c4eeb2008a0893dc3e3e3c9e05.jpg"
+            }, {
+                "name": " 本·米勒",
+                "role": "演员",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/e87db29338251667b7315ce3ca7857cb.jpg"
+            }, {
+                "name": " 杰克·莱西",
+                "role": "演员",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/5e9fdc5b02c49221e6ae019fb1939278.jpg"
+            }],
+            "director": "大卫·科尔",
+            "category": "喜剧|动作|冒险",
+            "synopsis": "《憨豆特工3》是憨豆特工系列喜剧的第三部作品，罗温·艾金森再度回归，继续扮演大受欢迎的阴差阳错入行的特工强尼。这次的新冒险由一场黑客攻击拉开序幕，所有在职的特工都被暴露了身份，使得强尼成为情报处最后的救命稻草。因此获得“返聘”的强尼第一个出勤任务便是要找出这位超强 黑客 。木头木脑、技能堪忧的强尼将如何应对现代科技的挑战，成功完成任务呢？",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "法国   美国  英国",
+            "language": "英语",
+            "videoId": "XMzU0NDc4MjU1Ng==",
+            "premiereAt": 1542931200,
+            "timeType": 3,
+            "runtime": 100,
+            "grade": "7.2",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        }, {
+            "filmId": 4456,
+            "name": "亡命救赎 ",
+            "poster": "https://pic.maizuo.com/usr/movie/3a9febdd5b7352b64a180256bdc0f312.jpg",
+            "actors": [{
+                "name": " 让-弗朗西斯·瑞切",
+                "role": "导演",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/e139e002891c4d931707b54007202525.jpg"
+            }, {
+                "name": " 梅尔·吉布森",
+                "role": " Link",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/ebdd2b394aba70c34d60b3c01ff5b48c.jpg"
+            }, {
+                "name": " 艾琳·莫里亚蒂",
+                "role": " Lydia",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/2870cf1b7be679eb8e510b5b96292775.jpg"
+            }, {
+                "name": " 迭戈·卢纳 ",
+                "role": " Jonah",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/1bfbb19ae339998c59ba864794de07fb.jpg"
+            }],
+            "director": " 让-弗朗西斯·瑞切",
+            "category": "动作|犯罪",
+            "synopsis": "Lydia很小的时候父亲就进了监狱，她从小和母亲生活在一起，但骨子里继承了父亲Link的基因，十分叛逆。一次闯下大祸后，Lydia走投无路联系到多年未曾见面的父亲，Link已经退隐江湖很多年，在拖车里以纹身为生。为了解决女儿的困境，他鼓起勇气挺起胸膛，以父亲的身份对决Jonah一行人，用鲜血为女儿换来了重生……",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "法国",
+            "language": "英语  西班牙语",
+            "videoId": "XMTU2NTg3NTA0OA==",
+            "premiereAt": 1543536000,
+            "timeType": 3,
+            "runtime": 88,
+            "grade": "7.2",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        }, {
+            "filmId": 4450,
+            "name": "摘金奇缘",
+            "poster": "https://pic.maizuo.com/usr/movie/754ddaacfdccbcea1639526123e313c7.jpg",
+            "actors": [{
+                "name": "杨紫琼",
+                "role": "Eleanor Young",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/fe26bdb22798edfebc0ef653fc6252fe.jpg"
+            }, {
+                "name": "吴恬敏",
+                "role": " Rachel Chu",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/ac41ad4e9e15584843ad68fb4b52957d.jpg"
+            }, {
+                "name": "亨利·戈尔丁",
+                "role": "Nick Young",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/be20ff048325786959f8d980d2723712.jpg"
+            }, {
+                "name": " 嘉玛·陈",
+                "role": " Astrid Leong",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/b62f9ebaf607f243d61da37d3af02190.jpg"
+            }],
+            "director": "朱浩伟",
+            "category": "喜剧|爱情|英语",
+            "synopsis": "纽约土生土长的朱丽秋（吴恬敏 饰）陪拍拖已久的男友杨力（亨利·戈尔丁 饰）回到新加坡参加死党婚礼。丽秋既为首次到亚洲旅行感到兴奋，同时亦因为要拜访杨力的家人而紧张。她在毫无准备的情况下得悉男友一直没有透露的身世……原来杨力不仅是新加坡首富的后人，亦是城中瞩目的“钻石王老 五”。身为女友的丽秋腹背受敌，不单只受到名媛的妒忌，还要面对杨力挑剔的母亲（杨紫琼 饰）阻拦。这一切都证明金钱虽然买不到爱情，却足以令事情变得非常复杂。",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "美国",
+            "language": "汉语普通话  粤语 ",
+            "videoId": "XMzg5MjY2MTU1Mg==",
+            "premiereAt": 1543536000,
+            "timeType": 3,
+            "runtime": 121,
+            "grade": "7.4",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        }, {
+            "filmId": 4449,
+            "name": "神奇动物：格林德沃之罪 ",
+            "poster": "https://pic.maizuo.com/usr/movie/358dd88b48bf568421a61547a9bef66a.jpg",
+            "actors": [{
+                "name": " 埃迪·雷德梅恩",
+                "role": " Newt Scamander",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/4d828f38ac95b61fe7c9083050c638af.jpg"
+            }, {
+                "name": " 凯瑟琳·沃特斯顿",
+                "role": "Tina Goldstein",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/fc19ca1ca8fc5c24a0bfc19e7201fcbd.jpg"
+            }, {
+                "name": "约翰尼·德普",
+                "role": " Gellert Grindelwald",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/7ff01da7efbef84212b77d0ad6c0e8cc.jpg"
+            }, {
+                "name": "裘德·洛",
+                "role": "Albus Dumbledore",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/e9e0ea7106da0ac77c1a79fe08a28625.jpg"
+            }, {
+                "name": " 埃兹拉·米勒",
+                "role": "Credence Barebone",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/9054603fbac4e5f7b1deedddd987cbff.jpg"
+            }],
+            "director": "大卫·叶茨",
+            "category": "奇幻|冒险",
+            "synopsis": "在《神奇动物在那里》第一部的结尾，纽特·斯卡曼德（埃迪·雷德梅恩 Eddie Redmayne 饰）协助美国魔法国会，将强大的黑巫师盖勒特·格林德沃（约翰尼·德普 Johnny Depp 饰）抓捕归案。但格林德沃不久便兑现狂言成功越狱，并开始纠集信徒，着手实现他们的邪恶目的：让纯血统的巫师成为统治阶层，镇压一切非魔法生物。 为挫败格林德沃的阴谋，阿不思·邓布利多（裘德·洛 Jude Law 饰）向昔日的学生纽特·斯卡曼德寻求帮助。纽特欣然允诺，却没有意识到，他将踏上的会是一段充满艰险的未来征途。此时的魔法世界面临空前的分裂乱局，阶层鸿沟日益加深，爱与忠诚备受考验，至亲好友也可能反目成仇……",
+            "filmType": {
+                "name": "3D",
+                "value": 2
+            },
+            "nation": "美国  英国",
+            "language": "英语",
+            "videoId": "XMzg4NzgwNDc5Mg==",
+            "premiereAt": 1542326400,
+            "timeType": 3,
+            "runtime": 133,
+            "grade": "7.2",
+            "item": {
+                "name": "3D",
+                "type": 2
+            },
+            "isPresale": true,
+            "isSale": false
+        }, {
+            "filmId": 4471,
+            "name": "龙猫",
+            "poster": "https://pic.maizuo.com/usr/movie/6d94e61f1b3824e388dd782c527a9e87.jpg",
+            "actors": [{
+                "name": "宫崎骏 ",
+                "role": "导演",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/8c495b0bde95a2404d3c30ccb57a31fb.jpg"
+            }, {
+                "name": "日高法子",
+                "role": " 小月 ",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/8d26436568074eb22a850d205da513a8.jpg"
+            }, {
+                "name": "坂本千夏",
+                "role": "小梅",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/1b30e87e46e8d72a3f38972daa1d3fe6.jpg"
+            }, {
+                "name": "糸井重里",
+                "role": "爸爸    草壁先生 ",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/81b03e6237e7269ce6499d274be12ca2.jpg"
+            }, {
+                "name": "岛本须美",
+                "role": " 妈妈",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/7d63be2cbe96765fc2ba721317824094.jpg"
+            }, {
+                "name": "北林谷荣",
+                "role": " 婆婆",
+                "avatarAddress": "https://pic.maizuo.com/usr/movie/6cbac29e52d3e36da6a5bf0424ff00a2.jpg"
+            }],
+            "director": "宫崎骏",
+            "category": "动画|奇幻|冒险",
+            "synopsis": "小月的母亲生病住院了，父亲带着她与四岁的妹妹小梅到乡间的居住。她们对那里的环境都感到十分新奇，也发现了很多有趣的事情。她们遇到了很多小精灵，她们来到属于她们的环境中，看到了她们世界中很多的奇怪事物，更与一只大大胖胖的龙猫成为了朋友。龙猫与小精灵们利用他们的神奇力量，为小月与妹妹带来了很多神奇的景观，令她们大开眼界。　　妹妹小梅常常挂念生病中的母亲，嚷着要姐姐带着她去看母亲，但小月拒绝了。小梅竟然自己前往，不料途中迷路了，小月只好寻找她的龙猫及小精灵朋友们帮助",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "日本",
+            "language": " 日语",
+            "videoId": "",
+            "premiereAt": 1544745600,
+            "timeType": 3,
+            "runtime": 86,
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        }],
+        "total": 36
+    },
+    "msg": "ok"
+}

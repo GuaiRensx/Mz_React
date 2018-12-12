@@ -1,0 +1,123 @@
+@import url('../main.less');
+.movieOnInfoList{
+    .w(375);
+    background: #fff;
+    ul{
+        .margin-left(15);
+        .w(360);
+        li{
+            .padding(15,15,15,0);
+            border-bottom: 1px solid #ededed;
+            .h(94);
+            .moiveInfo{
+                .w(345);
+                .h(94);
+                position: relative;
+                // border: 1px solid #ccc;
+                a{
+                    display: inline-block;
+                    width: 100%;
+                    height: 100%;
+                    .moiveImg{
+                        .w(66);
+                        .h(94);
+                        box-sizing: border-box;
+                        img{
+                            width: 100%;
+                            height: 100%;
+                        }
+                        // border: 1px solid pink;
+                    }
+                    .fileInfo{
+                        .w(209);
+                        box-sizing: border-box;
+                        .padding(0,0,0,10);
+                        // border: 1px solid green;
+                        .h(94);
+                        .title{
+                            overflow: hidden;
+                            text-overflow: ellipsis;
+                            white-space: nowrap;
+                            width: 100%;
+                            .name{
+                                display: inline-block;
+                                vertical-align: middle;
+                                color: #191a1b;
+                                .fs(16);
+                                .h(22);
+                                .lh(22);
+                                .margin-right(5);
+                                overflow: hidden;
+                            }
+                            .version{
+                                .fs(9);
+                                color: #fff;
+                                background-color: #d2d6dc;
+                                .h(14);
+                                .lh(14);
+                                .padding(2,2,2,2);
+                                .border-radius(2);
+                                display: inline-block;
+                                vertical-align: middle;
+                            }
+                        }
+                        .grade{
+                            width: 100%;
+                            text-overflow: ellipsis;
+                            white-space: nowrap;
+                            span{
+                                .fs(13);
+                                .margin-top(8);
+                                color: #797d82;
+                            }
+                            .mark{
+                                .margin-top(8);
+                                .margin-left(10);
+                                color: #ffb232;
+                                .fs(14);
+                            }
+                        }
+                        .star{
+                            .margin-top(3);
+                            overflow: hidden;
+                            text-overflow: ellipsis;
+                            white-space: nowrap;
+                            width: 100%;
+                            span{
+                                .fs(13);
+                                color: #797d82;
+                                .margin-top(4);
+                            }
+                        }
+                        .area{
+                            overflow: hidden;
+                            text-overflow: ellipsis;
+                            white-space: nowrap;
+                            .margin-top(5);
+                            width: 100%;
+                            span{
+                                .fs(13);
+                                color: #797d82;
+                                .margin-top(4);
+                            }
+                        }
+                    }
+                    .buy{
+                        .lh(25);
+                        .h(25);
+                        .w(50);
+                        text-align: center;
+                        .fs(13);
+                        box-sizing: border-box;
+                        border: 1px solid #ff5f16;
+                        .border-radius(2);
+                        color: #ff5f16;
+                        position: absolute;
+                        .bottom(35);
+                        right:0;
+                    }
+                }
+            }
+        }
+    }
+}

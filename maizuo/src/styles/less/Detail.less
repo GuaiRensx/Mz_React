@@ -1,0 +1,55 @@
+@import url('../main.less');
+.film{
+    height: 100%;
+    .film-header{
+        z-index: 1;
+        .h(44);
+        .lh(44);
+        .w(375);
+        position: fixed;
+        background: #fff;
+        color: #191a1b;
+        .back{
+            .h(30);
+            .w(30);
+            position: absolute;
+            .top(5);
+            .left(5);
+            i{
+                position: absolute;
+                text-align: center;
+                display: inline-block;
+                width: 100%;
+                height: 100%;
+                .fs(18);
+                .lh(30);
+                color: #191a1b;
+            }
+        }
+        .film-name{
+            width: 100%;
+            text-align: center;
+            .fs(17);
+        }
+    }
+    .film-pic{
+        width: 100%;
+        .h(210);
+        img{
+            width: 100%;
+            height: 100%;
+        }
+    }
+    .film-info{
+            .padding(12,15,15,15);
+            background: #fff;
+            .col{
+                .w(345);
+                color: #2c3e50;
+                .fs(18);
+                .film-name{
+                    
+                }
+            }
+    }
+}
